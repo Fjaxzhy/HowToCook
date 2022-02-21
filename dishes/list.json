@@ -1,0 +1,41 @@
+{
+    "type": "dishes",
+    "list": {
+        "braised": [
+            {
+                "name": "红烧茄子",
+                "location": "./braised/红烧茄子.md"
+            }
+        ],
+        "breakfast": [
+
+        ],
+        "condiment": [
+
+        ],
+        "drink": [
+
+        ],
+        "home-cooking": [
+
+        ],
+        "porridge": [
+
+        ],
+        "semi-finished": [
+
+        ],
+        "soup": [
+
+        ],
+        "staple": [
+
+        ],
+        "template": [
+            {
+                "name": "示例菜",
+                "location": "./template/示例菜.md"
+            }
+        ]
+    }
+}
